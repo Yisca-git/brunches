@@ -1,3 +1,5 @@
 text3.txt by second-branch
 
 add lines to PR
+
+Hi everyone!
